@@ -1,1 +1,1 @@
-# nezuware-front-end-intership-project
+TASK 1: CREATE A LANDING PAGE
